@@ -31,7 +31,7 @@ Our experiments were conducted on a machine running Ubuntu 20.04 LTS. We run our
 
 ## Objective functions
 - File "src/ObjectiveFunction.h": is the base class of the other submodular functions.
-- File "src/minHappiness.h": is the average happiness ratio function.
+- File "src/minHappiness.h": is the minimum happiness ratio function.
 
 ## Evaluated algorithms
 - File "src/SubsetSelectionAlgorithm.h": is the base class of the following algorithms.
