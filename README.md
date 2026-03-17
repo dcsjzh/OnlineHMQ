@@ -1,4 +1,4 @@
-# Online Happiness Maximization Queries
+# Online Happiness Maximization Queries 
 This repository contains source code of our paper "Online Happiness Maximization Queries" which introduces two approximation algorithms (ThresholdOnline and SieveOnline) for the online happiness maximization query (Online-HMQ) problem. 
 
 # Datasets
